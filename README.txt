@@ -1,1 +1,0 @@
-Automated API testing, multiple tests of the requests for the web application PetFriends.
